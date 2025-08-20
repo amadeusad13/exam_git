@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 je veut ajouter ce morceu de code
 ajouetr ausii code de mohamed
+=======
+hello there
+dksgk
+bonjour
+>>>>>>> 2785657445b35838f08e952a8afc5cd54a2164fd
